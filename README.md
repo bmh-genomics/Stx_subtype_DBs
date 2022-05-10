@@ -11,7 +11,8 @@ stx2_aa_subunitA-B_joinedDB: An stx2 amino acid sequence database that includes 
 
 NCBI accession numbers and other information used to generate the databases are in the attached file: 
 
-[database_accessions_and_info_20220510.txt](https://github.com/bmh-genomics/Stx_subtype_DBs/files/8663569/database_accessions_and_info_20220510.txt)
+[database_accessions_and_info_20220510.txt](https://github.com/bmh-genomics/Stx_subtype_DBs/files/8663679/database_accessions_and_info_20220510.txt)
+
 
 Note: for stx2m sequences, single-end iontorrent reads from strain E75_19 (BioSample # SAMEA7019263) were assembled and BLAST was used to identify the stx2m sequences based on X07865.1
 
