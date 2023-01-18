@@ -1,5 +1,5 @@
 # Stx_subtype_DBs
-Databases for shiga toxin (stx) subtyping in fasta format. NCBI accession numbers and other information used to generate the databases are in: database_accessions_and_info_20230110.txt
+Databases for shiga toxin (stx) subtyping in fasta format containing representative stx2 subtype sequences (i.e. not all variants are included). NCBI accession numbers and other information used to generate the databases are in: database_accessions_and_info_20230110.txt
 
 stx2_nt_subunitA-spacer-subunitB: An stx2 nucleotide sequence database that includes the full CDS of subunit A, a spacer region, and the full CDS of subunit B. Upstream/downstream sequences were removed as appropriate. 
 
