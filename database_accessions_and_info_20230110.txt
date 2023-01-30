@@ -12,4 +12,4 @@ CB10366	i	FN252457	CAX53241.1	CAX53242.1	https://doi.org/10.3390/microorganisms9
 12GZSW01	k	KC339670.2	AGB13719.2	AGB13720.2	not published
 FHI 1106-1092	l	AM904726	CAP17609.1	CAP17610.1	https://doi.org/10.3390/microorganisms9112374
 03-3638	o	MZ229604	QZL10982.1	QZL10983.1	https://doi.org/10.1128/jcm.02229-21
-E75_19	m	JAOZWX010000239(146..1105:1106-1117:1118..1381); stx2 subunit A locus_tag OJO68_25365; 12nt linker; stx2 subunit B locus_tag OJO68_25370 MCW3186100.1	MCW3186101.1	https://www.mdpi.com/2076-2607/9/11/2374/htm (ERX4245790 reads only); Assembly and blast for stx2 sequences from assembly GCA_025984515.1
+E75_19	m	JAOZWX010000239(146..1105:1106-1117:1118..1381); stx2 subunit A locus_tag OJO68_25365; 12nt linker; stx2 subunit B locus_tag OJO68_25370	MCW3186100.1	MCW3186101.1	https://www.mdpi.com/2076-2607/9/11/2374/htm (ERX4245790 reads only); Assembly and blast for stx2 sequences from assembly GCA_025984515.1
