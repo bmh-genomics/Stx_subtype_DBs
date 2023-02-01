@@ -1,15 +1,27 @@
-Strain	stx2 subytpe	stx2 gene accession (nt)	stx2 subunit A accession (aa)	stx2 subunit B accession (aa)	DOI Reference
-EDL933	a	X07865.1	CAA30714.1	CAA30715.1	https://doi.org/10.3390/microorganisms9112374
-EH250	b	AF043627	AAD12174.1	AAD12175.1	https://doi.org/10.3390/microorganisms9112374
-031	c	L11079	AAA16362.1	AAA16363.1 	https://doi.org/10.3390/microorganisms9112374
-C165-02	d	DQ059012	AAY63864.1	AAY63865	https://doi.org/10.3390/microorganisms9112374
-S1191	e	M21534	AAA19189.1	AAA19190.1	https://doi.org/10.3390/microorganisms9112374
-F08-101-31	f	AB472687	BAH86759.1	BAH86760.1	https://doi.org/10.3390/microorganisms9112374
-7v	g	AY286000	AAP37403.1	AAP37404.1	https://doi.org/10.3390/microorganisms9112374
-STEC299	h	CP022279 region: complement(4122529..4123764)	AUM09788.1	AUM09787.1	https://doi.org/10.3390/microorganisms9112374
-CB10366	i	FN252457	CAX53241.1	CAX53242.1	https://doi.org/10.3390/microorganisms9112374
-5447	j	MZ571121	ZN05543.1	QZN05544.1	https://doi.org/10.3390/microorganisms9112374
-12GZSW01	k	KC339670.2	AGB13719.2	AGB13720.2	not published
-FHI 1106-1092	l	AM904726	CAP17609.1	CAP17610.1	https://doi.org/10.3390/microorganisms9112374
-03-3638	o	MZ229604	QZL10982.1	QZL10983.1	https://doi.org/10.1128/jcm.02229-21
-E75_19	m	JAOZWX010000239(146..1105:1106-1117:1118..1381); stx2 subunit A locus_tag OJO68_25365; 12nt linker; stx2 subunit B locus_tag OJO68_25370	MCW3186100.1	MCW3186101.1	https://www.mdpi.com/2076-2607/9/11/2374/htm (ERX4245790 reads only); Assembly and blast for stx2 sequences from assembly GCA_025984515.1
+Strain	stx_subytpe	stx accession (nt)	stx subunit A accession (aa)	stx subunit B accession (aa)	DOI Reference
+EDL933	stx2_a	X07865.1	CAA30714.1	CAA30715.1	https://doi.org/10.3390/microorganisms9112374
+EH250	stx2_b	AF043627	AAD12174.1	AAD12175.1	https://doi.org/10.3390/microorganisms9112374
+031	stx2_c	L11079	AAA16362.1	AAA16363.1 	https://doi.org/10.3390/microorganisms9112374
+C165-02	stx2_d	DQ059012	AAY63864.1	AAY63865	https://doi.org/10.3390/microorganisms9112374
+S1191	stx2_e	M21534	AAA19189.1	AAA19190.1	https://doi.org/10.3390/microorganisms9112374
+F08-101-31	stx2_f	AB472687	BAH86759.1	BAH86760.1	https://doi.org/10.3390/microorganisms9112374
+7v	stx2_g	AY286000	AAP37403.1	AAP37404.1	https://doi.org/10.3390/microorganisms9112374
+STEC299	stx2_h	CP022279 region: complement(4122529..4123764)	AUM09788.1	AUM09787.1	https://doi.org/10.3390/microorganisms9112374
+CB10366	stx2_i	FN252457	CAX53241.1	CAX53242.1	https://doi.org/10.3390/microorganisms9112374
+5447	stx2_j	MZ571121	ZN05543.1	QZN05544.1	https://doi.org/10.3390/microorganisms9112374
+12GZSW01	stx2_k	KC339670.2	AGB13719.2	AGB13720.2	not published
+FHI 1106-1092	stx2_l	AM904726	CAP17609.1	CAP17610.1	https://doi.org/10.3390/microorganisms9112374
+03-3638	stx2_o	MZ229604	QZL10982.1	QZL10983.1	https://doi.org/10.1128/jcm.02229-21
+E75_19	stx2_m	JAOZWX010000239(146..1105:1106-1117:1118..1381); stx2 subunit A locus_tag OJO68_25365; 12nt linker; stx2 subunit B locus_tag OJO68_25370	MCW3186100.1	MCW3186101.1	https://www.mdpi.com/2076-2607/9/11/2374/htm (ERX4245790 reads only); Assembly and blast for stx2 sequences from assembly GCA_025984515.1
+04-06263	stx1a	AM230663(122..1069:1079..1348)	CAJ76692.1	CAJ76693.1
+3385-00	stx1a	AM230662(149..1096:1106..1375)	CAJ76690.1	CAJ76691.1
+CB168	stx1a	Z36900(156..1103:1113..1382)	CAA85368.1	CAA85369.1
+PH	stx1a	L04539(3187..4134:4144..4413)	AAA71893.1	AAA71894.1
+AI2001-52	stx1a	AB083044(1..948:958..1227)	BAC78639.1	BAC78640.1
+EDL933	stx1a	M19473(163..1110:1120..1389)	AAA98151.1	AAA98152.1
+94C	stx1a	Z36899(156..1103:1113..1382)	CAA85366.1	CAA85367.1
+DG131-3	stx1c	Z36901(156..1103:1114..1383)	CAA85370.1	CAA85371.1
+HI-A_1	stx1c	AB071619(1..948):AB071620(1..270)	BAC10987.1	BAC10988.1	Note: no linker sequence
+HI-C_1	stx1c	AB071623(1..948):AB071624(1..270)	BAC10991.1	BAC10992.1	Note: no linker sequence
+HI-N	stx1c	AB048237(1..948:959..1228)	BAB83022.1	BAB83023.1
+MHI813	stx1d	AY170851(11..958:968..1237)	AAO19475.1	AAO19476.1
